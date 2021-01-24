@@ -62,6 +62,20 @@ footer{
   border-radius: 25px;
   box-shadow: 2px black;
 }
+.btn{
+  display: contents;
+}
+.input-group .form-control{
+  height:auto;
+  
+}
+span{
+  display:block;
+  background-color: var(--hero-font);
+}
+span, i{
+    margin: 10px;
+}
 
 .saveBtn {
   border-left: 1px solid black;
